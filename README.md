@@ -66,7 +66,7 @@ Follow these simple steps to start learning:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/overclocked-2124/RVCE-Coding-Bootkit
+git clone https://github.com/codingclubrvce/RVCE-Coding-Bootkit
 ```
 
 ```bash
